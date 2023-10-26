@@ -1,3 +1,5 @@
 Get the user data..
 
 Process the given data
+
+create a new product for set of customers.
