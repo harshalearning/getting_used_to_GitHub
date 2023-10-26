@@ -1,0 +1,2 @@
+Add and remove customers.
+Change the roles of employees.
